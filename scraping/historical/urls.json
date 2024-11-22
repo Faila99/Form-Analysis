@@ -1,0 +1,1648 @@
+[
+    {
+        "league_name": "league-one",
+        "country": "england",
+        "url": "https://primatips.com/fixtures/england/league-one",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "ykkonen",
+        "country": "finland",
+        "url": "https://primatips.com/fixtures/finland/ykkonen",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "first-division",
+        "country": "norway",
+        "url": "https://primatips.com/fixtures/norway/1-division",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "j1",
+        "country": "japan",
+        "url": "https://primatips.com/fixtures/japan",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016-second-stage",
+            "2016-first-stage",
+            "2015-second-stage",
+            "2015-first-stage",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "liga-super",
+        "country": "malaysia",
+        "url": "https://primatips.com/fixtures/malaysia",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "premier",
+        "country": "kazakhstan",
+        "url": "https://primatips.com/fixtures/kazakhstan",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "ligue professionnelle 1",
+        "country": "tunisia",
+        "url": "https://primatips.com/fixtures/tunisia",
+        "seasons": [
+            "2023-2024",
+            "2023-second-stage",
+            "2022-2023",
+            "2022-second-stage",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2017-second-stage",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "k1",
+        "country": "south-korea",
+        "url": "https://primatips.com/fixtures/south-korea",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "national-division",
+        "country": "luxembourg",
+        "url": "https://primatips.com/fixtures/luxembourg",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "super-league",
+        "country": "switzerland",
+        "url": "https://primatips.com/fixtures/switzerland",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "v1",
+        "country": "vietnam",
+        "url": "https://primatips.com/fixtures/vietnam/v-league-1",
+        "seasons": [
+            "2023-2024",
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "liga-3",
+        "country": "germany",
+        "url": "https://primatips.com/fixtures/germany/3-liga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "pro-league",
+        "country": "belgium",
+        "url": "https://primatips.com/fixtures/belgium/pro-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "virsliga",
+        "country": "latvia",
+        "url": "https://primatips.com/fixtures/latvia/virsliga",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "meistriliiga",
+        "country": "estonia",
+        "url": "https://primatips.com/fixtures/estonia/meistriliiga",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "super-lig",
+        "country": "turkiye",
+        "url": "https://primatips.com/fixtures/turkiye/super-lig",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "npfl",
+        "country": "nigeria",
+        "url": "https://primatips.com/fixtures/nigeria/npfl",
+        "seasons": [
+            "2023-2024",
+            "2023-second-stage",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020"
+        ]
+    },
+    {
+        "league_name": "snl-1",
+        "country": "slovenia",
+        "url": "https://primatips.com/fixtures/slovenia/1-snl",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "eliteserien",
+        "country": "norway",
+        "url": "https://primatips.com/fixtures/norway/eliteserien",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "div-1-norra",
+        "country": "sweden",
+        "url": "https://primatips.com/fixtures/sweden/division-1-norra",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "pro-league",
+        "country": "uae",
+        "url": "https://primatips.com/fixtures/uae/pro-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "premier-league",
+        "country": "wales",
+        "url": "https://primatips.com/fixtures/wales/premier-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "ligue-2",
+        "country": "france",
+        "url": "https://primatips.com/fixtures/france/ligue-2",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "k2",
+        "country": "south-korea",
+        "url": "https://primatips.com/fixtures/south-korea/k-league-2",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019"
+        ]
+    },
+    {
+        "league_name": "premiership",
+        "country": "northen-ireland",
+        "url": "https://primatips.com/fixtures/northern-ireland",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "liga-expansion",
+        "country": "mexico",
+        "url": "https://primatips.com/fixtures/mexico/liga-de-expansion-mx",
+        "seasons": [
+            "2024-clausura",
+            "2023-apertura",
+            "2023-clausura",
+            "2022-apertura",
+            "2022-clausura",
+            "2021-apertura",
+            "2021-clausura",
+            "2020-apertura",
+            "2020-clausura",
+            "2019-apertura",
+            "2019-clausura",
+            "2018-apertura",
+            "2018-clausura",
+            "2017-apertura",
+            "2017-clausura",
+            "2016-apertura",
+            "2016-clausura",
+            "2015-apertura",
+            "2015-clausura",
+            "2014-apertura",
+            "2014-clausura",
+            "2013-apertura",
+            "2013-clausura",
+            "2012-apertura",
+            "2012-clausura"
+        ]
+    },
+    {
+        "league_name": "superettan",
+        "country": "sweden",
+        "url": "https://primatips.com/fixtures/sweden/superettan",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "serie-b",
+        "country": "italy",
+        "url": "https://primatips.com/fixtures/italy/serie-b",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "j2",
+        "country": "japan",
+        "url": "https://primatips.com/fixtures/japan/j2-league",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "challenger-pro",
+        "country": "belgium",
+        "url": "https://primatips.com/fixtures/belgium/challenger-pro-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-second-stage",
+            "2019-first-stage",
+            "2018-second-stage",
+            "2018-first-stage",
+            "2017-second-stage",
+            "2017-first-stage",
+            "2016-second-stage",
+            "2016-first-stage",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "premier-league",
+        "country": "iceland",
+        "url": "https://primatips.com/fixtures/iceland/premier-league",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "div-1-sodra",
+        "country": "sweden",
+        "url": "https://primatips.com/fixtures/sweden/division-1-sodra",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "bundesliga",
+        "country": "germany",
+        "url": "https://primatips.com/fixtures/germany/bundesliga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "championship",
+        "country": "scotland",
+        "url": "https://primatips.com/fixtures/scotland/championship",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "primera-division",
+        "country": "chile",
+        "url": "https://primatips.com/fixtures/chile/primera-division",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017-clausura",
+            "2017-apertura",
+            "2016-clausura",
+            "2015-apertura",
+            "2015-clausura",
+            "2014-apertura",
+            "2014-clausura",
+            "2013-apertura",
+            "2013",
+            "2012-clausura",
+            "2012-apertura"
+        ]
+    },
+    {
+        "league_name": "a-lyga",
+        "country": "lithuania",
+        "url": "https://primatips.com/fixtures/lithuania/a-lyga",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "liga-1",
+        "country": "peru",
+        "url": "https://primatips.com/fixtures/peru/liga-1",
+        "seasons": [
+            "2024-apertura",
+            "2023-apertura",
+            "2023-clausura",
+            "2022-apertura",
+            "2022-clausura",
+            "2021-apertura",
+            "2021-clausura",
+            "2020-apertura",
+            "2020-clausura",
+            "2019-apertura",
+            "2019-clausura",
+            "2018-apertura",
+            "2018-clausura",
+            "2017-apertura",
+            "2017-clausura",
+            "2016-apertura",
+            "2016-clausura",
+            "2015-apertura",
+            "2015-clausura",
+            "2014-apertura",
+            "2014-clausura",
+            "2013",
+            "2021"
+        ]
+    },
+    {
+        "league_name": "super-league",
+        "country": "greece",
+        "url": "https://primatips.com/fixtures/greece/super-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "serie-b",
+        "country": "brazil",
+        "url": "https://primatips.com/fixtures/brazil/serie-b",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "premier-league",
+        "country": "singapore",
+        "url": "https://primatips.com/fixtures/singapore/premier-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "primeira-liga",
+        "country": "portugal",
+        "url": "https://primatips.com/fixtures/portugal/primeira-liga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "liga-2",
+        "country": "slovakia",
+        "url": "https://primatips.com/fixtures/slovakia/2-liga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "eredivisie",
+        "country": "netherlands",
+        "url": "https://primatips.com/fixtures/netherlands/eredivisie",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "league-two",
+        "country": "england",
+        "url": "https://primatips.com/fixtures/england/league-two",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "eerste-divisie",
+        "country": "netherlands",
+        "url": "https://primatips.com/fixtures/netherlands/eerste-divisie",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "botola",
+        "country": "morocco",
+        "url": "https://primatips.com/fixtures/morocco/botola",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "first-division",
+        "country": "cyprus",
+        "url": "https://primatips.com/fixtures/cyprus/first-division",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "second-league",
+        "country": "austria",
+        "url": "https://primatips.com/fixtures/austria/second-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "veikkausliiga",
+        "country": "finland",
+        "url": "https://primatips.com/fixtures/finland/veikkausliiga",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "serie-a",
+        "country": "brazil",
+        "url": "https://primatips.com/fixtures/brazil/serie-a",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "division-2-gp-1",
+        "country": "norway",
+        "url": "https://primatips.com/fixtures/norway/2-division-group-1",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020-second-stage",
+            "2020-first-stage",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014"
+        ]
+    },
+    {
+        "league_name": "allsvenskan",
+        "country": "sweden",
+        "url": "https://primatips.com/fixtures/sweden/allsvenskan",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "liga-mx",
+        "country": "mexico",
+        "url": "https://primatips.com/fixtures/mexico/liga-mx",
+        "seasons": [
+            "2024-clausura",
+            "2023-apertura",
+            "2023-clausura",
+            "2022-apertura",
+            "2022-clausura",
+            "2021-apertura",
+            "2021-clausura",
+            "2020-apertura",
+            "2020-clausura",
+            "2019-apertura",
+            "2019-clausura",
+            "2018-apertura",
+            "2018-clausura",
+            "2017-apertura",
+            "2017-clausura",
+            "2016-apertura",
+            "2016-clausura",
+            "2015-apertura",
+            "2015-clausura",
+            "2014-apertura",
+            "2014-clausura",
+            "2013-apertura",
+            "2013-clausura",
+            "2012-apertura",
+            "2012-clausura"
+        ]
+    },
+    {
+        "league_name": "primera-division",
+        "country": "paraguay",
+        "url": "https://primatips.com/fixtures/paraguay/primera-division",
+        "seasons": [
+            "2024-apertura",
+            "2023-apertura",
+            "2023-clausura",
+            "2022-apertura",
+            "2022-clausura",
+            "2021-apertura",
+            "2021-clausura",
+            "2020-apertura",
+            "2020-clausura",
+            "2019-apertura",
+            "2019-clausura",
+            "2018-apertura",
+            "2018-clausura",
+            "2017-apertura",
+            "2017-clausura",
+            "2016-apertura",
+            "2016-clausura",
+            "2015-apertura",
+            "2015-clausura",
+            "2014-apertura",
+            "2014-clausura",
+            "2013-apertura",
+            "2013-clausura",
+            "2012-apertura",
+            "2012-clausura"
+        ]
+    },
+    {
+        "league_name": "laliga-2",
+        "country": "spain",
+        "url": "https://primatips.com/fixtures/spain/segunda-division",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "pro-league",
+        "country": "saudi",
+        "url": "https://primatips.com/fixtures/saudi-arabia/professional-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "first-league",
+        "country": "czech",
+        "url": "https://primatips.com/fixtures/czech-republic/first-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "national-league",
+        "country": "czech",
+        "url": "https://primatips.com/fixtures/czech-republic/national-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "bundesliga-2",
+        "country": "germany",
+        "url": "https://primatips.com/fixtures/germany/2-bundesliga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "superliga",
+        "country": "serbia",
+        "url": "https://primatips.com/fixtures/serbia/superliga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "superliga",
+        "country": "denmark",
+        "url": "https://primatips.com/fixtures/denmark/superliga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "serie-a",
+        "country": "italy",
+        "url": "https://primatips.com/fixtures/italy/serie-a",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "first-division",
+        "country": "denmark",
+        "url": "https://primatips.com/fixtures/denmark/1st-division",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "challenge-league",
+        "country": "switzerland",
+        "url": "https://primatips.com/fixtures/switzerland/challenge-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "superliga",
+        "country": "slovakia",
+        "url": "https://primatips.com/fixtures/slovakia/superliga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "super-league",
+        "country": "china",
+        "url": "https://primatips.com/fixtures/china/super-league",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "liga-i",
+        "country": "romania",
+        "url": "https://primatips.com/fixtures/romania/liga-i",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "first-division",
+        "country": "iceland",
+        "url": "https://primatips.com/fixtures/iceland/first-division",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "divisjon-2-gp-2",
+        "country": "norway",
+        "url": "https://primatips.com/fixtures/norway/2-division-group-2",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020-second-stage",
+            "2020-first-stage",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "national-league",
+        "country": "algeria",
+        "url": "https://primatips.com/fixtures/algeria/championnat-national",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "championship",
+        "country": "england",
+        "url": "https://primatips.com/fixtures/england/championship",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "a-league",
+        "country": "australia",
+        "url": "https://primatips.com/fixtures/australia/a-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "ligue-1",
+        "country": "france",
+        "url": "https://primatips.com/fixtures/france/ligue-1",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "stars-league",
+        "country": "qatar",
+        "url": "https://primatips.com/fixtures/qatar/stars-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "bundesliga",
+        "country": "austria",
+        "url": "https://primatips.com/fixtures/austria/bundesliga",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "laliga",
+        "country": "spain",
+        "url": "https://primatips.com/fixtures/spain/primera-division",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "psl",
+        "country": "south-africa",
+        "url": "https://primatips.com/fixtures/south-africa/premier-soccer-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "liga-1",
+        "country": "indonesia",
+        "url": "https://primatips.com/fixtures/indonesia/liga-1",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2015",
+            "2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "league-1",
+        "country": "thailand",
+        "url": "https://primatips.com/fixtures/thailand/thai-league-1",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "premier-league",
+        "country": "israel",
+        "url": "https://primatips.com/fixtures/israel/premier-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "liga-2",
+        "country": "portugal",
+        "url": "https://primatips.com/fixtures/portugal/liga-portugal-2",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "premier-league",
+        "country": "england",
+        "url": "https://primatips.com/fixtures/england/premier-league",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    },
+    {
+        "league_name": "premier-league",
+        "country": "faroeIslands",
+        "url": "https://primatips.com/fixtures/faroe-islands/premier-league",
+        "seasons": [
+            "2023",
+            "2022",
+            "2021",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012"
+        ]
+    },
+    {
+        "league_name": "premiership",
+        "country": "scotland",
+        "url": "https://primatips.com/fixtures/scotland/premiership",
+        "seasons": [
+            "2023-2024",
+            "2022-2023",
+            "2021-2022",
+            "2020-2021",
+            "2019-2020",
+            "2018-2019",
+            "2017-2018",
+            "2016-2017",
+            "2015-2016",
+            "2014-2015",
+            "2013-2014",
+            "2012-2013"
+        ]
+    }
+]

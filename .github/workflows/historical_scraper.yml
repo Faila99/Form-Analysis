@@ -1,0 +1,45 @@
+name: Historical Stats Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 20 * * *" # This schedules the workflow to every 20 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.12.3
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+#      - name: Debug
+#        run: ls ./scraper/historical
+
+      - name: Run Python Script
+        run: python main.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Add all generated CSV files
+          git add ./scraper/historical/state.json
+          git add ./data/historical/**/*.csv
+          # Commit with a message
+          git commit -m "Update scraped data [skip ci]" || echo "No changes to commit"
+          # Push the changes
+          git push
