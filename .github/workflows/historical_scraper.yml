@@ -37,7 +37,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Add all generated CSV files
-          git add ./scraper/historical/state.json
+          git add ./scraping/historical/state_2.json
           git add ./data/historical/**/*.csv
           # Commit with a message
           git commit -m "Update scraped data [skip ci]" || echo "No changes to commit"
