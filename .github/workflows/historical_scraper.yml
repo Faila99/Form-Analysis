@@ -38,7 +38,7 @@ jobs:
         run: |
           # Add all generated CSV files
           git add ./scraping/historical/state_2.json
-          git add ./data/historical/**/*.csv
+          git add ./shared/data/historical/**/*.csv
           # Commit with a message
           git commit -m "Update scraped data [skip ci]" || echo "No changes to commit"
           # Push the changes
