@@ -32,6 +32,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Fetch and Pull Latest Changes
+        run: |
+          git fetch origin
+          git pull origin main --rebase # Rebase to avoid merge commits
+
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
