@@ -41,13 +41,27 @@ def run(leagues_url_details):
         url = f"{base_url}/{season}"
         print(url)
         file_name = f"{country}_{league_name}_{season}"
-        scraped_stats = scraper(url)
+        
+        try:
+            scraped_stats = scraper(url)
 
-        convert_to_csv(
-            scraped_stats, f"{directory_path}/{file_name}.csv", field_names=field_names
-        )
-        print(f'scraped stats for {country} - {league_name} "{season}" season.')
+            convert_to_csv(
+                scraped_stats, f"{directory_path}/{file_name}.csv", field_names=field_names
+            )
+            print(f'scraped stats for {country} - {league_name} "{season}" season.')
+        except Exception as e:
+            print(f"Unexpected error occur while scraping {url}")
 
+            # Track the error and the URL in a JSON file
+            try:
+                current_error = load_json("scraping/historical/errors_2.json")
+            except FileNotFoundError:
+                current_error = []  # Initialize empty list if file doesn't exist
+    
+            current_error.append({'url': url, 'error': str(e), 'league_index': current_league_index, 'season_index': season_index})
+            
+            save_to_json("./scraping/historical/errors_2.json", current_error)
+            continue
     # Check if this is the last league and the last season
 
     # Update state
