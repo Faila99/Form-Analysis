@@ -1,0 +1,8 @@
+[
+    {
+        "url": "https://primatips.com/fixtures/japan/j2-league/2012",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 0,
+        "season_index": 9
+    }
+]
