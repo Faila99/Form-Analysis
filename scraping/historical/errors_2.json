@@ -28,5 +28,17 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 6,
         "season_index": 12
+    },
+    {
+        "url": "https://primatips.com/fixtures/chile/primera-division/2012-clausura",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 6,
+        "season_index": 15
+    },
+    {
+        "url": "https://primatips.com/fixtures/chile/primera-division/2012-apertura",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 6,
+        "season_index": 15
     }
 ]
