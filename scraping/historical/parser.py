@@ -2,6 +2,7 @@ from datetime import datetime
 from io import StringIO
 
 import pandas as pd
+import re
 from bs4 import BeautifulSoup
 
 
@@ -57,7 +58,7 @@ def get_goals(scores_str_list):
     scores = [score.split("-") for score in scores_str_list if score != "-"]
     int_goals = []
     for score in scores:
-        goals = [int(s) for s in score]
+        goals = [int(re.sub(r'[^0-9]', '', s)) for s in score]
         int_goals.append(goals)
     return int_goals
 
@@ -83,7 +84,7 @@ def parse_matches_stats(matches_table, home_team, matches_type, teams_list=None)
         away = match.find(class_="ateam").text.strip().lower()
 
         result = match.find(class_="result").text.strip().split("-")
-        result = [int(score) for score in result]
+        result = [int(re.sub(r'[^0-9]', '', score)) for score in result]
 
         if home.lower() == home_team.lower():
             gf = result[0]
@@ -176,17 +177,17 @@ def parse_teams_stats(fixture_wrapper: BeautifulSoup, home_team: str, away_team:
         .find_all("tr")
     )
     overall_positions = [
-        int(s.text.strip()) for s in teams_pos_and_points[1].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[1].find_all(class_="pos")
     ]
     home_away_positions = [
-        int(s.text.strip()) for s in teams_pos_and_points[4].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[4].find_all(class_="pos")
     ]
 
     overall_points = [
-        int(s.text.strip()) for s in teams_pos_and_points[2].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[2].find_all(class_="pos")
     ]
     home_away_points = [
-        int(s.text.strip()) for s in teams_pos_and_points[5].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[5].find_all(class_="pos")
     ]
 
     # form stats
@@ -208,7 +209,7 @@ def parse_teams_stats(fixture_wrapper: BeautifulSoup, home_team: str, away_team:
             .split("|")
         )
         form_stats = [
-            int(s) for s in form_stats if s != "" and s != "\xa0" and s != " "
+            int(re.sub(r'[^0-9]', '', s)) for s in form_stats if s != "" and s != "\xa0" and s != " "
         ]
 
         return form_stats
