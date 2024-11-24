@@ -177,17 +177,17 @@ def parse_teams_stats(fixture_wrapper: BeautifulSoup, home_team: str, away_team:
         .find_all("tr")
     )
     overall_positions = [
-        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[1].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip())) for s in teams_pos_and_points[1].find_all(class_="pos")
     ]
     home_away_positions = [
-        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[4].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip())) for s in teams_pos_and_points[4].find_all(class_="pos")
     ]
 
     overall_points = [
-        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[2].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip())) for s in teams_pos_and_points[2].find_all(class_="pos")
     ]
     home_away_points = [
-        int(re.sub(r'[^0-9]', '', s.text.strip()) for s in teams_pos_and_points[5].find_all(class_="pos")
+        int(re.sub(r'[^0-9]', '', s.text.strip())) for s in teams_pos_and_points[5].find_all(class_="pos")
     ]
 
     # form stats
