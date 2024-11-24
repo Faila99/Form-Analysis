@@ -40,5 +40,11 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 6,
         "season_index": 15
+    },
+    {
+        "url": "https://primatips.com/fixtures/lithuania/a-lyga/2012",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 7,
+        "season_index": 9
     }
 ]
