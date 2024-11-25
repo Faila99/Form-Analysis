@@ -58,5 +58,11 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 17,
         "season_index": 9
+    },
+    {
+        "url": "https://primatips.com/fixtures/finland/veikkausliiga/2012",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 20,
+        "season_index": 9
     }
 ]
