@@ -64,5 +64,11 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 20,
         "season_index": 9
+    },
+    {
+        "url": "https://primatips.com/fixtures/brazil/serie-a/2012",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 21,
+        "season_index": 9
     }
 ]
