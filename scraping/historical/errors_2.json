@@ -100,5 +100,11 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 24,
         "season_index": 21
+    },
+    {
+        "url": "https://primatips.com/fixtures/mexico/liga-mx/2012-clausura",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 24,
+        "season_index": 24
     }
 ]
