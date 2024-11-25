@@ -82,5 +82,23 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 24,
         "season_index": 18
+    },
+    {
+        "url": "https://primatips.com/fixtures/mexico/liga-mx/2013-apertura",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 24,
+        "season_index": 21
+    },
+    {
+        "url": "https://primatips.com/fixtures/mexico/liga-mx/2013-clausura",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 24,
+        "season_index": 21
+    },
+    {
+        "url": "https://primatips.com/fixtures/mexico/liga-mx/2012-apertura",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 24,
+        "season_index": 21
     }
 ]
