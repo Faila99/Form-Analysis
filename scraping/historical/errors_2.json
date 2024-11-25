@@ -70,5 +70,11 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 21,
         "season_index": 9
+    },
+    {
+        "url": "https://primatips.com/fixtures/sweden/allsvenskan/2012",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 23,
+        "season_index": 9
     }
 ]
