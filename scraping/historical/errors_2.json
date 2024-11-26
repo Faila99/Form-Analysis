@@ -130,5 +130,11 @@
         "error": "'NoneType' object has no attribute 'replace'",
         "league_index": 25,
         "season_index": 24
+    },
+    {
+        "url": "https://primatips.com/fixtures/saudi-arabia/professional-league/2013-2014",
+        "error": "'NoneType' object has no attribute 'replace'",
+        "league_index": 27,
+        "season_index": 9
     }
 ]
