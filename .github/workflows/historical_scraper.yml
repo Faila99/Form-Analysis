@@ -2,8 +2,8 @@ name: Historical Stats Scraper
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *" # This schedules the workflow to run every 30 minutes
+  # schedule:
+    # - cron: "*/30 * * * *" # This schedules the workflow to run every 30 minutes
 
 jobs:
   run-script:
